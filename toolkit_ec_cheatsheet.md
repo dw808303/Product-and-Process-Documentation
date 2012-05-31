@@ -33,5 +33,7 @@ The Toolkit is a collection of Perl scripts, Bourne shell scripts, and config fi
 * Customizations to `resourcedef` and `pbs_mom`'s config are required to accomodate solver licensing and to allow for app-specific termination scripts, etc.  Recommend that you use symlinks to the shared filesystem (mentioned above) to store all the mom configs.
 * Place the sample `pbs.sh` and `pbs.csh` in `/etc/profile.d` on all machines in the complex.
 
+#### Modfile Recommendations
+
 
 	
